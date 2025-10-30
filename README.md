@@ -88,4 +88,16 @@ The data model was designed using a **Star Schema** in Power BI, connecting fact
 
 ## 📷 Dashboard Previews
 
+### 🟩 Overview Page
+![Overview Page](Uber%20analysis/page1.png)
+
+### 🚗 Vehicle Page
+![Vehicle Page](Uber%20analysis/page2.png)
+
+### ❌ Cancellation Page
+![Cancellation Page](Uber%20analysis/page3.png)
+
+### 💰 Revenue & Distance Page
+![Revenue and Distance Page](Uber%20analysis/page4.png)
+
 
